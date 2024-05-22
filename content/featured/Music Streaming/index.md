@@ -2,7 +2,7 @@
 date: '1'
 title: 'Streamify'
 cover: './Streamify-Architecture.jpg'
-github: 'https://github.com/ParikshithT/Text-Classification-Amazon-Product-Reviews/tree/main/Amazon%20Product%20Reviews'
+github: 'https://github.com/ParikshithT/Music_Streaming_Pipeline'
 # external: 'https://halcyon-theme.netlify.com/'
 tech:
   - GCP
@@ -12,4 +12,4 @@ tech:
   - Python
 ---
 
-A pioneering project in data engineering showcased leveraging AutoML and cloud technologies for efficient text classification and NLP workflows. It focused on designing robust data pipelines for ML model training and deployment, highlighting the integration of automation and manual oversight. This work exemplified proficiency in scaling data engineering solutions in cloud environments.
+The Music Streaming Pipeline project is a comprehensive data engineering endeavor designed to handle and analyze real-time streaming data for a simulated music service. It processes user interaction data continuously, transforming raw event streams into insightful analytics, such as identifying trending songs and active users. This project demonstrates a robust and scalable architecture, integrating multiple components to ensure efficient data flow and real-time analytics, showcasing the potential of modern data engineering practices in enhancing digital music experiences.
