@@ -1,14 +1,14 @@
 ---
 date: '2023-03-27'
 title: 'Twitter ETL Pipeline'
-github: 'https://github.com/ParikshithT/Xray-Classification'
+github: 'https://github.com/ParikshithT/Twitter-Data-Pipeline'
 external: ''
 tech:
   - Python
   - AWS EC2
   - Airflow
   - S3
-company: 'Northeastern'
+company: 'Northeastern University'
 showInProjects: true
 ---
 
