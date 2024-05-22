@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://parikshith-thriyambaka.com/sitemap-index.xml
+Host: https://parikshith-thriyambaka.com
