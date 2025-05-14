@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Pipeline: Amazon Product Reviews'
 cover: './Amazon.png'
 github: 'https://github.com/ParikshithT/Text-Classification-Amazon-Product-Reviews/tree/main/Amazon%20Product%20Reviews'

@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Pipeline: NYC Taxi'
 cover: './architecture.jpg'
 github: 'https://github.com/bchiang7/spotify-profile'
