@@ -1,6 +1,6 @@
 ---
 date: '2024-05-10'
-title: 'Data Engineer Intern'
+title: 'Data Engineer'
 company: 'Futurism Technologies'
 location: 'Boston USA'
 range: 'May 2024 - Present'
