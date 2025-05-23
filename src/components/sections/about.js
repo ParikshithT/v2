@@ -150,8 +150,15 @@ const About = () => {
             </p>
 
             <p>
-              At <a href="https://us.mullenlowe.com/">Digital API Craft</a>, my role in leading data
-              pipeline projects for clients like <a href="https://starry.com/">HSBC</a>, and{' '}
+              Before <a href="https://www.amazon.jobs/en/">Amazon</a>, I worked as an Analytics Engineer at <a href="https://www.futurismtechnologies.com/">Futurism Technologies</a>, 
+              where I led the design and deployment of SOX-compliant ETL pipelines, 
+              built predictive maintenance models, and developed real-time analytics dashboards to support business operations. 
+              I worked extensively with AWS Redshift, Glue, and Python-based data workflows, 
+              bridging data engineering with actionable insights and governance.
+            </p>
+            <p>
+              At <a href="https://www.digitalapi.ai/">Digital API Craft</a>, my role in leading data
+              pipeline projects for clients like <a href="https://develop.hsbc.com/">HSBC</a>, and{' '}
               <a href="https://www.apple.com/">Khan Bank</a> not only refined my technical skills in
               Python, SQL, and Spark but also highlighted the transformative power of data-driven
               decision-making. This professional experience, complemented by my ongoing pursuit of a
