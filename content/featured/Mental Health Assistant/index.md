@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Bruno: An AI-Powered Mental Health Chatbot Platform'
 cover: './bruno.png'
 github: 'https://github.com/ParikshithT/Mental_Health_AI'

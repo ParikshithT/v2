@@ -69,8 +69,8 @@ const Hero = () => {
       <p>
         I'm a data engineer specializing in crafting robust data solutions for diverse applications.
         Currently, I'm honing my skills in data analytics engineering at at{' '}
-        <a href="https://www.northeastern.edu/" target="_blank" rel="noreferrer">
-          Northeastern University, Boston
+        <a href="https://www.amazon.jobs/en/" target="_blank" rel="noreferrer">
+          Amazon.com, Boston
         </a>
         .
       </p>

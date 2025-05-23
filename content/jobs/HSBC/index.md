@@ -1,7 +1,7 @@
 ---
 date: '2021-12-21'
 title: 'Data Engineer : HSBC'
-company: 'Digital API Craft'
+company: 'HSBC'
 location: 'Bangalore India'
 range: 'July 2021 - August 2022'
 url: 'https://develop.hsbc.com/'

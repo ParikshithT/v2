@@ -1,7 +1,7 @@
 ---
 date: '2020-08-21'
 title: 'Data Engineer : Khan Bank'
-company: 'Digital API Craft'
+company: 'Khan Bank'
 location: 'Bangalore, India'
 range: 'September 2020 - July 2021'
 url: 'https://www.khanbank.com/en/personal/'
